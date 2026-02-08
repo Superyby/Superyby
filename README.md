@@ -3,11 +3,11 @@
   <tr>
     <!-- 第一张：GitHub Stats -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true&theme=github_dark&locale=cn&layout=compact&card_width=250" alt="GitHub Stats" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true&theme=tokyonight&locale=cn&layout=compact&card_width=250" alt="GitHub Stats" width="250" height="150" />
     </td>
     <!-- 第二张：WakaTime -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/wakatime?username=TomatoYu&langs_count=5&custom_title=嗯哼&locale=cn&theme=github_dark" alt="WakaTime" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/wakatime?username=TomatoYu&langs_count=5&custom_title=嗯哼&locale=cn&theme=radical" alt="WakaTime" width="250" height="150" />
     </td>
     <!-- 第三张：Top Languages - 紧凑横条样式 -->
     <td valign="top">
