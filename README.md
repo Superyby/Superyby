@@ -1,6 +1,6 @@
 ## 这个肯定就是我最近动态啦🏆🏆🏆
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-content: center; padding: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
   <!-- 第一张 -->
   <div style="width: 300px; height: 150px; overflow: hidden; border-radius: 8px; background-color: #1a1a1a;">
     <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true&theme=github_dark&locale=cn&layout=compact&card_width=300" alt="GitHub Stats" width="300" style="height: 150px; object-fit: cover;" />
