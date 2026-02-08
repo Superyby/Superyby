@@ -4,11 +4,12 @@
 [![Readme Card](https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=VantaTrack&locale=cn&theme=github_dark&layout=compact)](https://github.com/Superyby/VantaTrack)
 
 ## 这个肯定就是我最近动态啦🏆🏆🏆
-
 ## 这个肯定就是我最近动态啦🏆🏆🏆
 
-<div align="center">
-  <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true&theme=github_dark&locale=cn&layout=compact&card_width=300" alt="GitHub Stats" width="300" /><br>
-  <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/wakatime?username=TomatoYu&langs_count=5&custom_title=嗯哼&locale=cn&theme=github_dark" alt="WakaTime" width="300" /><br>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true&theme=github_dark&locale=cn&layout=compact&card_width=300" alt="GitHub Stats" width="300" />
+  
+  <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/wakatime?username=TomatoYu&langs_count=5&custom_title=嗯哼&locale=cn&theme=github_dark" alt="WakaTime" width="300" />
+  
   <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=VantaTrack&locale=cn&theme=github_dark&layout=compact" alt="VantaTrack" width="300" />
 </div>
