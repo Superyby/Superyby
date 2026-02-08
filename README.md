@@ -11,7 +11,7 @@
     </td>
     <!-- 第三张：Top Languages - 紧凑横条样式 -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/top-langs/?username=Superyby&layout=compact&locale=cn&theme=cobalt&langs_count=4&card_width=150" alt="Top Languages" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/top-langs/?username=Superyby&layout=compact&locale=cn&theme=tokyonight&langs_count=4&card_width=150" alt="Top Languages" width="250" height="150" />
     </td>
   </tr>
   <tr>
