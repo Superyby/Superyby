@@ -3,7 +3,7 @@
 [![Harlok's WakaTime stats](https://github-readme-stats-smoky-phi-45.vercel.app/api/wakatime?username=TomatoYu&langs_count=5&layout=compact&custom_title=嗯哼&locale=cn&theme=github_dark&layout=compact)](https://github.com/Superyby/github-readme-stats)
 [![Readme Card](https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=VantaTrack&locale=cn&theme=github_dark&layout=compact)](https://github.com/Superyby/VantaTrack)
 <a href="https://github.com/Superyby/DatabaseManagerment">
-  <img height=200 align="center" src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby"/>
+  <img height=200 align="center" src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=DatabaseManagerment"/>
 </a>
 <a href="https://github.com/Superyby/DatabaseManagerment">
   <img height=200 align="center" src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&layout=compact&langs_count=8&card_width=320" />
