@@ -6,5 +6,5 @@
   <img height=200 align="center" src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=DatabaseManagerment"/>
 </a>
 <a href="https://github.com/Superyby/DatabaseManagerment">
-  <img height=200 align="center" src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&layout=compact&langs_count=8&card_width=320repo=DatabaseManagerment" />
 </a>
