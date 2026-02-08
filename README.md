@@ -1,4 +1,4 @@
-## 这个肯定就是我最近动态啦🏆🏆🏆
+## 这肯定就是我最近动态啦🏆🏆🏆
 <table align="center">
   <tr>
     <!-- 第一张：GitHub Stats -->
