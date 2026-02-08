@@ -1,6 +1,6 @@
 ## 这个肯定就是我最近动态啦🏆🏆🏆
 
-<div align="center">
+<div>
   <!-- 第一张：GitHub Stats -->
   <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true&theme=github_dark&locale=cn&layout=compact&card_width=300" alt="GitHub Stats" width="300" /><br>
 
