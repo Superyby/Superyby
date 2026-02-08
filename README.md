@@ -13,3 +13,4 @@
   />
   <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats-smoky-phi-45.vercel.app/api/top-langs/?username=Superyby)](https://github.com/Superyby/github-readme-stats)
