@@ -9,9 +9,23 @@
     <td valign="top">
       <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/wakatime?username=TomatoYu&langs_count=5&custom_title=嗯哼&locale=cn&theme=github_dark" alt="WakaTime" width="250" height="150" />
     </td>
-    <!-- 第三张：Repo Pin -->
+    <!-- 第三张：Top Languages - 紧凑横条样式 -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=VantaTrack&locale=cn&theme=github_dark&layout=compact" alt="VantaTrack" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/top-langs/?username=Superyby&layout=compact&locale=cn&theme=github_dark&langs_count=4&card_width=150" alt="Top Languages" width="250" height="150" />
+    </td>
+  </tr>
+  <tr>
+    <!-- 第四张：Repo Pin - Superyby.github.io + radical主题 -->
+    <td valign="top">
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=Superyby.github.io&locale=cn&theme=radical&hide_border=true" alt="Superyby.github.io" width="250" height="150" />
+    </td>
+    <!-- 第五张：Repo Pin - DatabaseManagerment + tokyonight主题 -->
+    <td valign="top">
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=DatabaseManagerment&locale=cn&theme=tokyonight&hide_border=true" alt="DatabaseManagerment" width="250" height="150" />
+    </td>
+    <!-- 第六张：Repo Pin - VantaTrack -->
+    <td valign="top">
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=VantaTrack&locale=cn&theme=synthwave&hide_border=true" alt="VantaTrack" width="250" height="150" />
     </td>
   </tr>
 </table>
