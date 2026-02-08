@@ -1,6 +1,5 @@
 ## 这个肯定就是我最近动态啦🏆🏆🏆
-
-<table>
+<table align="center">
   <tr>
     <!-- 第一张：GitHub Stats -->
     <td valign="top">
