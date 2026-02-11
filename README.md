@@ -28,4 +28,5 @@
       <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=VantaTrack&locale=cn&theme=synthwave&hide_border=true" alt="VantaTrack" width="250" height="150" />
     </td>
   </tr>
+  
 </table>
