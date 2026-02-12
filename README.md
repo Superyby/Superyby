@@ -3,7 +3,7 @@
   <tr>
     <!-- 第一张：GitHub Stats -->
     <td valign="top">
-      <img src="https://github-readme-stats-3ci0cxxr6-tomatoyus-projects.vercel.app/api?username=Superyby&show_icons=true&theme=tokyonight&locale=cn&layout=compact&card_width=250" alt="GitHub Stats" width="250" height="150" />
+      <img src="https://github-readme-stats-git-vercel-set-up-72bad4-tomatoyus-projects.vercel.app/api?username=Superyby&show_icons=true&theme=tokyonight&locale=cn&layout=compact&card_width=250" alt="GitHub Stats" width="250" height="150" />
     </td>
     <!-- 第二张：WakaTime -->
     <td valign="top">
