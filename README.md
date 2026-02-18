@@ -18,7 +18,7 @@
   <tr>
     <!-- 第四张：Repo Pin - Superyby.github.io + radical主题 -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=Superyby.github.io&locale=cn&theme=radical&hide_border=true" alt="Superyby.github.io" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=Superyby.github.io&locale=cn&theme=radical&hide_border=true&v=2" alt="Superyby.github.io" width="250" height="150" />
     </td>
     <!-- 第五张：Repo Pin - DatabaseManagerment + tokyonight主题 -->
     <td valign="top">
