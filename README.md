@@ -8,7 +8,7 @@
     </td>
     <!-- 第二张：WakaTime -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/wakatime?username=TomatoYu&langs_count=5&custom_title=Yes&locale=cn&theme=radical&v=2" alt="WakaTime" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/wakatime?username=TomatoYu&langs_count=5&custom_title=Yes&locale=cn&theme=radical" alt="WakaTime" width="250" height="150" />
     </td>
     <!-- 第三张：Top Languages - 紧凑横条样式 -->
     <td valign="top">
