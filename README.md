@@ -4,7 +4,7 @@
   <tr>
     <!-- 第一张：GitHub Stats -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true&theme=tokyonight&locale=cn&layout=compact&card_width=250" alt="GitHub Stats" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api?username=Superyby&show_icons=true&theme=tokyonight&locale=cn&layout=compact&card_width=250&v=2" alt="GitHub Stats" width="250" height="150" />
     </td>
     <!-- 第二张：WakaTime -->
     <td valign="top">
@@ -12,7 +12,7 @@
     </td>
     <!-- 第三张：Top Languages - 紧凑横条样式 -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/top-langs/?username=Superyby&layout=compact&locale=cn&theme=tokyonight&langs_count=4&card_width=150" alt="Top Languages" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/top-langs/?username=Superyby&layout=compact&locale=cn&theme=tokyonight&langs_count=4&card_width=150&v=2" alt="Top Languages" width="250" height="150" />
     </td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@
     </td>
     <!-- 第六张：Repo Pin - VantaTrack -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=VantaTrack&locale=cn&theme=synthwave&hide_border=true" alt="VantaTrack" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=VantaTrack&locale=cn&theme=synthwave&hide_border=true&v=2" alt="VantaTrack" width="250" height="150" />
     </td>
   </tr>
 </table>
