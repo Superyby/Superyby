@@ -22,11 +22,11 @@
     </td>
     <!-- 第五张：Repo Pin - DatabaseManagerment + tokyonight主题 -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=DatabaseManagerment&locale=cn&theme=tokyonight&hide_border=true&v=2" alt="DatabaseManagerment" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=AstroNexusWeb&locale=cn&theme=tokyonight&hide_border=true&v=2" alt="DatabaseManagerment" width="250" height="150" />
     </td>
     <!-- 第六张：Repo Pin - VantaTrack -->
     <td valign="top">
-      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=Situation&locale=cn&theme=synthwave&hide_border=true&v=2" alt="VantaTrack" width="250" height="150" />
+      <img src="https://github-readme-stats-smoky-phi-45.vercel.app/api/pin/?username=Superyby&repo=SkyPulse&locale=cn&theme=synthwave&hide_border=true&v=2" alt="VantaTrack" width="250" height="150" />
     </td>
   </tr>
 </table>
